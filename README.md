@@ -1,15 +1,19 @@
-JavaScript To-Do App
-A simple and interactive To-Do application built using HTML, CSS, and JavaScript.
+# 📝 Todo App
 
-#Features
--Add and delete tasks
--Mark tasks as completed
--Data saved using localStorage
--Responsive and clean UI
+A simple todo list built with HTML, CSS, and JavaScript.
 
-#Technologies
-HTML
-CSS
-JavaScript
+## Features
 
-🚀 Live Demo:
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Modern gradient design
+
+## How to Use
+
+1. Type a task and click "Add" or press Enter
+2. Check the checkbox to mark as complete
+3. Click "Delete" to remove a task
+
+
+🚀 Live Demo: https://nusaibamsarwar.github.io/To-do-app/
